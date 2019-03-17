@@ -24,7 +24,7 @@ class cuboid extends rect{
     double height;
     
     cuboid(double l,double b,double h){
-        super(l,b);
+        super(l,b); //using super for constructer
         this.height=h;
     }
     
