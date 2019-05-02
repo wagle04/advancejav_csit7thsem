@@ -1,6 +1,5 @@
 
 package classes;
-import java.awt.FlowLayout;
 import javax.swing.*;
 
 public class student_form_layout {
